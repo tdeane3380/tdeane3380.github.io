@@ -1,0 +1,47 @@
+*{margin: 0; 
+  padding: 0;
+}
+
+body{
+		font-family: Arial, Helvetica, Sans-serif;
+		font-size: 100%;
+		width: 600px;
+		margin: 20px auto;
+		background-color: #fffded;
+		border-style: 3px solid #800000;
+		padding: 0 20px 20px;
+}
+
+label {
+	float: left;
+	width: 12em;
+	text-align: right;
+	font-size: 90%;
+	paddind: 0 5em;
+}
+
+#button, legend {
+	color:#931420;
+	font-weight:bold;
+	font-size: 85%;
+	padding-bottom:.5em;
+}
+
+#button {
+		padding: 1em 10em;
+}
+
+#button, input,select {
+				width: 10em;
+				padding: .5em;
+				padding-left: 1em;
+}
+
+#submit, input,select {
+				width: 10em;
+}
+
+
+
+		
+		
